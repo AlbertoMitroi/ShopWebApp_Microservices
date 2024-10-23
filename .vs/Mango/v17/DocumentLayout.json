@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alberto.mitroi\\source\\repos\\Mango\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDF71E2-CD5B-485B-894D-21DC1FDAE162}|Mango.Services.CouponApi\\Mango.Services.CouponApi.csproj|c:\\users\\alberto.mitroi\\source\\repos\\mango\\mango.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDF71E2-CD5B-485B-894D-21DC1FDAE162}|Mango.Services.CouponApi\\Mango.Services.CouponApi.csproj|solutionrelative:mango.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CouponAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\alberto.mitroi\\source\\repos\\Mango\\Mango.Services.CouponApi\\Controllers\\CouponAPIController.cs",
+              "RelativeDocumentMoniker": "Mango.Services.CouponApi\\Controllers\\CouponAPIController.cs",
+              "ToolTip": "C:\\Users\\alberto.mitroi\\source\\repos\\Mango\\Mango.Services.CouponApi\\Controllers\\CouponAPIController.cs",
+              "RelativeToolTip": "Mango.Services.CouponApi\\Controllers\\CouponAPIController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAwG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:11:34.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
